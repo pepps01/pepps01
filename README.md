@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pepps01
 - 👀 I’m interested in football and Code
-- 🌱 I’m currently learning Python & Data Science
+- 🌱 I’m currently learning system architecture
 - 💞️ I’m looking to collaborate on Afrihealth, Sono & Cavista
 - 📫 How to reach me slpepple01@gmail.com
 
